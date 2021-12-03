@@ -1,0 +1,23 @@
+{
+    "blogs":[
+
+        {
+            "title": "Faker",
+            "body": "The term ‘Faker’ is synonymous with mock data generation, given that there are numerous Faker data mocking libraries for different programming languages (e.g., NodeJS, Ruby, PHP, Perl). The Faker library featured here is the one under the Python version.",
+            "id": 1 ,
+            "author":"Dear Boy"           
+        },
+        {
+            "title": "Dear",
+            "body": "The term ‘Faker’ is synonymous with mock data generation, given that there are numerous Faker data mocking libraries for different programming languages (e.g., NodeJS, Ruby, PHP, Perl). The Faker library featured here is the one under the Python version.",
+            "id": 2,
+            "author":"Dear Boy"  
+        },
+        {
+            "title": "Alaa",
+            "body": "The term ‘Faker’ is synonymous with mock data generation, given that there are numerous Faker data mocking libraries for different programming languages (e.g., NodeJS, Ruby, PHP, Perl). The Faker library featured here is the one under the Python version.",
+            "id": 3 ,
+            "author":"Mtuu"  
+        }
+    ]
+}
